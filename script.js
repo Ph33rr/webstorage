@@ -9,14 +9,14 @@ function liMaker(text){
   li.innerHTML = text;
   ul.appendChild(li);
 }
-//ar-SA-sticky-header-8
+/*
 function add(){
   itemsArray.push(input.value);
   localStorage.setItem('items', JSON.stringify(itemsArray));
   liMaker(input.value);
   input.value = '';
 }
-
+*/
 function del(){
   localStorage.clear();
   ul.innerHTML = '';
