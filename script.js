@@ -22,6 +22,7 @@ function del(){
   localStorage.clear();
   ul.innerHTML = '';
   itemsArray = [];
+  document.getElementById("reflected").innerHTML = ''
 }
  let xss = decodeURI(location.search.slice(5));
  document.getElementById("reflected").innerHTML = xss
