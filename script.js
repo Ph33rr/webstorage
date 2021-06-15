@@ -23,3 +23,5 @@ function del(){
   ul.innerHTML = '';
   itemsArray = [];
 }
+ let xss = decodeURI(location.search.slice(5));
+ document.getElementById("reflected").innerHTML = xss
