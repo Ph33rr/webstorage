@@ -9,4 +9,4 @@ https://packetstormsecurity.com/files/163187/Penetration-Testing-Web-Storage-Use
 <br>English version: https://github.com/Ph33rr/webstorage/blob/main/Penetration%20testing%20Web%20Storage%20(User%20Experience)%20English.pdf
 <br> Thanks to:
 <br> Nakerah Network https://twitter.com/nakerahnetwork
-<>
+<br>
