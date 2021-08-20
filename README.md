@@ -1,7 +1,7 @@
 # webstorage
 2 XSS in this lab
 <br>1- localstorage<br>
-2 -reflected xss "?xss="
+2 -reflected Domxss "?xss="
 
 <br> for more :<br> 
 
